@@ -1,10 +1,3 @@
-/*
-Name: Devani, Zeel Jitendrabhai
-NSID: vrp432
-Student Number: 11387749
-Course: cmpt270-01 2024 Fall
- */
-
 
 package Model;
 
