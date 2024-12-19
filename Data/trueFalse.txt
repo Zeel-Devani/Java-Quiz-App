@@ -1,0 +1,10 @@
+Jon Snow is the king in "Game of Thrones.";false
+Sherlock Holmes is a detective in "Sherlock.";true
+Eleven has psychic powers in "Stranger Things.";true
+Walter White is a teacher in "Breaking Bad.";true
+The Walking Dead is about a zombie apocalypse.;true
+Friends takes place in New York City.;true
+In "Lost," the survivors are on an island.;true
+Michael Scott is the boss in "The Office.";true
+Daenerys Targaryen owns dragons in "Game of Thrones.";true
+The Doctor is an alien in "Doctor Who.";true

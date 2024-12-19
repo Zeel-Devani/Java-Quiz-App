@@ -1,0 +1,10 @@
+Who is the main character of "Naruto"?;Naruto Uzumaki, Sasuke Uchiha, Kakashi Hatake, Sakura Haruno;Naruto Uzumaki
+Which anime features the "Death Note"?;Attack on Titan, My Hero Academia, Death Note, Demon Slayer;Death Note
+What is Goku's signature attack in "Dragon Ball Z"?;Kamehameha, Rasengan, Spirit Bomb, Chidori;Kamehameha
+Which anime features a character named "Luffy"?;Bleach, Naruto, One Piece, Hunter x Hunter;One Piece
+Who is the creator of the anime "Attack on Titan"?;Tetsuro Araki, Hideaki Anno, Yoshihiro Togashi, Hajime Isayama;Hajime Isayama
+What is the name of the protagonist in "Attack on Titan"?;Levi Ackerman, Eren Yeager, Mikasa Ackerman, Armin Arlert;Eren Yeager
+Which anime has the character "Sailor Moon"?;Dragon Ball Z, One Piece, Sailor Moon, Naruto;Sailor Moon
+What is the main power of the "Sharingan" in "Naruto"?;Control Time, Illusion Genjutsu, Strength Enhancement, Healing;Illusion Genjutsu
+Which Pokémon trainer is featured in "Pokémon"?;Ash Ketchum, Brock, Misty, Gary Oak;Ash Ketchum
+What is the name of the pirate crew in "One Piece"?;Straw Hat Pirates, Phantom Pirates, Red-Beard Pirates, Blackbeard Pirates;Straw Hat Pirates
